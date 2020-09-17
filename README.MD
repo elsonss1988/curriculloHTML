@@ -1,5 +1,4 @@
-Curriculo HTML
-##Exemplo de como criar seu Curriculo em HTML
+#Curriculo HTML
 ## exemplo simples e prático de como criar seu curriculo em HTML
 - HTML
 - Imagens
